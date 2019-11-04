@@ -9,3 +9,5 @@ This is a simple blog made with Bulma CSS
 4.  Media Elements in Bulma.
 5.  Icons usage in Bulma.
 
+[LIVE DEMO HERE](bmagoma-blog.netlify.com)
+
